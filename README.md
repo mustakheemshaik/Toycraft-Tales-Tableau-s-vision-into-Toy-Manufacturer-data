@@ -1,1 +1,2 @@
-# Toycraft-Tales-Tableau-s-vision-into-Toy-Manufacturer-data
+# ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data
+“ToyCraft Tales: Tableau’s Vision into Toy Manufacturer Data” is a data analytics and visualization project built using Tableau — a leading data visualization tool. It’s typically created as part of a data analytics learning experience or internship (e.g., SmartInternz &amp; SmartBridge Virtual Internship) where the goal was to analyze, visualize.
